@@ -1,6 +1,6 @@
 $nomention
 
-$c[This is an embed]
+$c[Embed]
 $title[Help Command]
 $description[
 $c[Your code here]
