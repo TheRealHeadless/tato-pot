@@ -1,0 +1,8 @@
+$nomention
+
+$c[This is an embed]
+$title[Help Command]
+$description[
+$c[Your code here]
+]
+$color[f4f4f4] $c[Sets a color for the embed(hex), you can change it to a different hex if you want]
